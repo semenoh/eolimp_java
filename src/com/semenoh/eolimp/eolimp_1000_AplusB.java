@@ -1,12 +1,16 @@
 package com.semenoh.eolimp;
-
 import java.util.Scanner;
 
-public class eolimp_0002_digits {
+
+public class eolimp_1000_AplusB {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		long n = in.nextLong();
-		System.out.println(Long.toString(n).length());
+		while(in.hasNext()){ 
+			int a = in.nextInt();
+			int b = in.nextInt();
+			System.out.println(a+b);
+		}
 	}
+
 }
