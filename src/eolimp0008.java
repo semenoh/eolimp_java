@@ -28,7 +28,7 @@ Classes: Modeling
 Example
  */
 
-public class Main {
+public class eolimp0008 {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		PrintWriter out = new PrintWriter(System.out);
