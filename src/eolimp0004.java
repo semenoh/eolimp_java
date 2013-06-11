@@ -45,7 +45,7 @@ public class eolimp0004 {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		in.useLocale(Locale.US);
-	  PrintWriter out = new PrintWriter(System.out);
+	  	PrintWriter out = new PrintWriter(System.out);
 	   
 		double x1 = in.nextDouble();
 		double y1 = in.nextDouble();
