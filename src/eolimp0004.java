@@ -41,7 +41,7 @@ import java.util.Scanner;
  * @author oleg.semen
  *
  */
-public class Main {
+public class eolimp0004 {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		in.useLocale(Locale.US);
