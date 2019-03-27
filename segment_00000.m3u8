@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:6
-#EXTINF:5.967533,
-https://raw.githubusercontent.com/semenoh/eolimp_java/master/segment_00000.ts
-#EXT-X-ENDLIST
